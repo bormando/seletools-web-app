@@ -25,6 +25,13 @@ code {
 .bottom {
     bottom: 0;
     height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    color: #f2f2f2;
 }
   
 .navbar a {
